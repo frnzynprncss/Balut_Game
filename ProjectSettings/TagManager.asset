@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazard
+  - Trampoline
+  - ground
+  - Asin
+  - Suka
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1sky
+    uniqueID: 2368489655
+    locked: 0
+  - name: 2background
+    uniqueID: 595923743
+    locked: 0
+  - name: 3foreground
+    uniqueID: 3574856787
+    locked: 0
+  - name: Player
+    uniqueID: 3449775907
+    locked: 0
+  - name: objects
+    uniqueID: 3000842281
+    locked: 0

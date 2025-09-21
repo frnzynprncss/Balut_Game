@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9abc858b642639d46849b4e9bb2bf0d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dingSound: {fileID: 8300000, guid: e6006bad055cb574a8f5f3f3a65f47d8, type: 3}
+  - timeSound: {fileID: 8300000, guid: a1b8f63f290514d4891a975ba0c0bbe9, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 9a34e0ee9d6c861458fccdfb350f0db7, type: 3}
+  - backgroundMusic: {fileID: 8300000, guid: e28c9508969dfd147bf8a6f25e06b56a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
