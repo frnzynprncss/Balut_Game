@@ -1,0 +1,30 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# AssetBundles
+AssetBundles/
+
+# Logs
+*.log
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
