@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp-firstpass/1.0.0": {
+      "type": "project",
+      "path": "Assembly-CSharp-firstpass.csproj",
+      "msbuildProject": "Assembly-CSharp-firstpass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Assembly-CSharp-firstpass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/nutrynity/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/nutrynity/Documents/BalutGame/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/home/nutrynity/Documents/BalutGame/Assembly-CSharp.csproj",
+      "packagesPath": "/home/nutrynity/.nuget/packages/",
+      "outputPath": "/home/nutrynity/Documents/BalutGame/Temp/obj/Debug/Assembly-CSharp/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/nutrynity/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/home/nutrynity/Documents/BalutGame/Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "/home/nutrynity/Documents/BalutGame/Assembly-CSharp-firstpass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

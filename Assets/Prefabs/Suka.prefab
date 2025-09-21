@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   balut_attainer: {fileID: 0}
+  audio_sfx: {fileID: 8300000, guid: a1b8f63f290514d4891a975ba0c0bbe9, type: 3}
   time_addition: 5
 --- !u!114 &2651399676356433296
 MonoBehaviour:

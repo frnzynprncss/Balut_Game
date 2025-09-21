@@ -3,6 +3,7 @@ using UnityEngine;
 public class Collectable : MonoBehaviour
 {
     public Balut_Attain balut_attainer;
+    public AudioClip audio_sfx;
 
     private void Start()
     {
@@ -13,6 +14,8 @@ public class Collectable : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            AudioManager.instance.PlaySound(audio_sfx, transform, 1f);
+
             ApplyEffect();
             Destroy(gameObject);
         }

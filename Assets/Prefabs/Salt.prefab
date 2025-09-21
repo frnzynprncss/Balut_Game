@@ -158,4 +158,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   balut_attainer: {fileID: 0}
+  audio_sfx: {fileID: 8300000, guid: e6006bad055cb574a8f5f3f3a65f47d8, type: 3}
   score_addition: 1
