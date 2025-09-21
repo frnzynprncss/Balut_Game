@@ -815,3 +815,53 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2947.852700 seconds.
+  path: Assets/UI/title_legit.png
+  artifactKey: Guid(d1d839df17261604e9a256435013efe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/title_legit.png using Guid(d1d839df17261604e9a256435013efe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '294c7eed51fb520c22aa96081f2d61d7') in 2.179599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 170.816897 seconds.
+  path: Assets/UI/title_legit.png
+  artifactKey: Guid(d1d839df17261604e9a256435013efe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/title_legit.png using Guid(d1d839df17261604e9a256435013efe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd9c2b397dfcc1f945159c2689de7fa44') in 0.184715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 41.640071 seconds.
+  path: Assets/Audio/Suka_sfx.mp3
+  artifactKey: Guid(a1b8f63f290514d4891a975ba0c0bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Suka_sfx.mp3 using Guid(a1b8f63f290514d4891a975ba0c0bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a153328bdd1568fec62c8e1825175971') in 0.397215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.254415 seconds.
+  path: Assets/Audio/Asin_sfx.mp3
+  artifactKey: Guid(e6006bad055cb574a8f5f3f3a65f47d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Asin_sfx.mp3 using Guid(e6006bad055cb574a8f5f3f3a65f47d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ec6b7cf240efcc8cc7b63a140a4f87b8') in 0.032435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 15.861211 seconds.
+  path: Assets/Audio/BGM.mp3
+  artifactKey: Guid(e28c9508969dfd147bf8a6f25e06b56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/BGM.mp3 using Guid(e28c9508969dfd147bf8a6f25e06b56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd1fb414212179e86599544f51265065c') in 0.018967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
